@@ -1,0 +1,23 @@
+/*
+FileName: spotbot.css
+Description: styles for spotbot admin themes
+Version: 0.0.2
+Author: Jake Helbig
+Author URI: http://www.jakehelbig.com
+License: GPLv3
+    Version 3, 29 June 2007
+    Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+    Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+*/
+
+img[usemap]{
+    border-radius: 10px;
+    border: 2px solid #50587e;
+    height: auto;
+    max-width: 100%;
+    width: auto;
+}
+
+.ind-cont{
+    padding-left: 20px;
+}
